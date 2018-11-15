@@ -7,7 +7,9 @@ Buy Server: https://m.do.co/c/cb8befca03f3
 
 
 wget https://raw.githubusercontent.com/databir/DashGreenCoin_MN/master/masternode-setup.sh
+
 chmod +x masternode-setup.sh
+
 ./masternode-setup.sh
 
 
