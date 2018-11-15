@@ -1,18 +1,18 @@
-# Dash Green Masternode Install
 
+***
+##  Dash Green Masternode Install:
 1. Launch an Ubuntu 16.04 server from either ( DigitalOcean )
 Buy Server: https://m.do.co/c/cb8befca03f3
-2. Login to your newly launched server
-3. Copy and paste the following line into the server:
 
-
+```
 wget https://raw.githubusercontent.com/databir/DashGreenCoin_MN/master/masternode-setup.sh
-
 chmod +x masternode-setup.sh
-
 ./masternode-setup.sh
 
+```
+***
 
+## Desktop wallet setup  
 
 
 You must have completed the following instructions on your Windows Wallet.
