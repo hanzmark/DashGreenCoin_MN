@@ -90,8 +90,14 @@ echo "maxconnections=256" >> $CONF_DIR/$CONF_FILE
 echo "masternode=1" >> $CONF_DIR/$CONF_FILE
 echo "" >> $CONF_DIR/$CONF_FILE
 
-echo "addnode=80.240.21.15" >> $CONF_DIR/$CONF_FILE
-echo "addnode=80.211.144.32" >> $CONF_DIR/$CONF_FILE
+echo "addnode=138.68.175.210" >> $CONF_DIR/$CONF_FILE
+echo "addnode=207.148.121.252" >> $CONF_DIR/$CONF_FILE
+echo "addnode=80.211.81.94" >> $CONF_DIR/$CONF_FILE
+echo "addnode=80.211.114.85" >> $CONF_DIR/$CONF_FILE
+echo "addnode=45.76.162.160" >> $CONF_DIR/$CONF_FILE
+echo "addnode=144.202.95.7" >> $CONF_DIR/$CONF_FILE
+echo "addnode=138.68.175.210" >> $CONF_DIR/$CONF_FILE
+echo "addnode=207.148.121.252" >> $CONF_DIR/$CONF_FILE
 
 echo "" >> $CONF_DIR/$CONF_FILE
 echo "port=$PORT" >> $CONF_DIR/$CONF_FILE
